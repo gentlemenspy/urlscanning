@@ -1,0 +1,19 @@
+Date: 27/05/2024
+Project: phishgurad
+Table of content: Url scanning,Domain reputaton
+Report On Url scanning and Domain reputaton
+
+The Url and Domain reputaion scanning will be done using Virus Total
+it will be integrated in the script where by the user will only imput the url they wish to scan
+
+Functions of the script 
+1. Their air 3 Functions in the folder 1 for Urlscanning, doamain and file 
+2. It will check the url it it is  malicous url or nor 
+3. Check the doamain reputatonif using including the Url 3 third party api
+
+Usage: Enter your url: https://www.google.com/
+THe user will enter the Url as an input 
+and the result will be out puted in a short form to the user Same as the Domain checker 
+Usage for File: i am using MDHASH 
+then it will print the hash
+
